@@ -1,0 +1,23 @@
+{
+  "name": "mitigation_sectoralcbs-techoptimism",
+  "data": [
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2021,
+          752.060800762589
+        ]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [
+          2021,
+          528.062318270233
+        ]
+      ]
+    }
+  ]
+}

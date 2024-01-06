@@ -1,0 +1,23 @@
+{
+  "name": "mitigation_sectoralcbs-led_halfway",
+  "data": [
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2021,
+          738.934423089591
+        ]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [
+          2021,
+          796.571990865996
+        ]
+      ]
+    }
+  ]
+}

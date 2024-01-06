@@ -1,0 +1,23 @@
+{
+  "name": "mitigation_sectoralcbs-led_halfway",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-R-AVIDOM",
+      "seriesValues": [
+        [
+          2022,
+          0.0217104943898972
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-R-AVIINT",
+      "seriesValues": [
+        [
+          2022,
+          4.90687657096722
+        ]
+      ]
+    }
+  ]
+}

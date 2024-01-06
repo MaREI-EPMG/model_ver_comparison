@@ -1,0 +1,27 @@
+{
+  "name": "mitigation_sectoralcbs-led_halfway",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Apt_Shallow",
+      "seriesValues": [
+        [
+          2050,
+          1.22020118663618e-08
+        ],
+        [
+          2051,
+          2.36791436811853e-08
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_Deep",
+      "seriesValues": [
+        [
+          2051,
+          1.57739660531362e-08
+        ]
+      ]
+    }
+  ]
+}

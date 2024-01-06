@@ -1,0 +1,23 @@
+{
+  "name": "mitigation_cb",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-R-AVIDOM",
+      "seriesValues": [
+        [
+          2022,
+          0.0214006604990436
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-R-AVIINT",
+      "seriesValues": [
+        [
+          2022,
+          4.90718640523721
+        ]
+      ]
+    }
+  ]
+}

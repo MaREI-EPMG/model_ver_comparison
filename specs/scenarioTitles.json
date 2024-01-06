@@ -1,4 +1,14 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "mitigation_cb": "mitigation_cb",
+  "mitigation_cb_main": "mitigation_cb_main",
+  "mitigation_cb_new": "mitigation_cb_new",
+  "mitigation_sectoralcbs": "mitigation_sectoralcbs",
+  "mitigation_sectoralcbs-led_halfway": "mitigation_sectoralcbs-LH",
+  "mitigation_sectoralcbs-led_halfway_main": "mitigation_sectoralcbs-LH_main",
+  "mitigation_sectoralcbs-led_halfway_new": "mitigation_sectoralcbs-LH_new",
+  "mitigation_sectoralcbs-techoptimism": "mitigation_sectoralcbs-TO",
+  "mitigation_sectoralcbs-techoptimism_main": "mitigation_sectoralcbs-TO_main",
+  "mitigation_sectoralcbs-techoptimism_new": "mitigation_sectoralcbs-TO_new",
+  "mitigation_sectoralcbs_main": "mitigation_sectoralcbs_main",
+  "mitigation_sectoralcbs_new": "mitigation_sectoralcbs_new"
 }

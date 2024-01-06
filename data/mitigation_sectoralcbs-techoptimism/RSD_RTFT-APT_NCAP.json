@@ -1,0 +1,27 @@
+{
+  "name": "mitigation_sectoralcbs-techoptimism",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Apt_Shallow",
+      "seriesValues": [
+        [
+          2050,
+          1.24781675354675e-08
+        ],
+        [
+          2051,
+          2.32640093198718e-08
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_Deep",
+      "seriesValues": [
+        [
+          2051,
+          1.59099346060775e-08
+        ]
+      ]
+    }
+  ]
+}
